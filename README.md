@@ -4,8 +4,7 @@ sockes5 一键搭建脚本
 
  bash <(curl -sL https://my.oofeye.com/nsock.sh)
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/zz4279669/socks5/main/ss5.sh && bash ss5.sh
-
+wget https://my.oofeye.com/work/Socks5/ss5.sh && bash ss5.sh
 # 命令报错的话 请安装wget
 yum -y install wget  或者  apt -y install wget
 
